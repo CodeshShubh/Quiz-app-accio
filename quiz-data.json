@@ -1,0 +1,203 @@
+{
+    "sections": [
+      {
+        "sectionTitle": "General Knowledge",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "What is the tallest mountain in the world?",
+            "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+            "answer": "Mount Everest"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the capital of Italy?",
+            "answer": "Rome"
+          },
+          {
+            "questionType": "number",
+            "question": "How many continents are there?",
+            "answer": 7
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which ocean is the largest?",
+            "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+            "answer": "Pacific"
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which is the largest desert in the world?",
+            "options": ["Sahara", "Gobi", "Kalahari", "Arctic Desert"],
+            "answer": "Sahara"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the capital of France?",
+            "answer": "Paris"
+          },
+          {
+            "questionType": "number",
+            "question": "How many colors are there in a rainbow?",
+            "answer": 7
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which is the largest planet in our solar system?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "answer": "Jupiter"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Science",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "What planet is known as the Red Planet?",
+            "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+            "answer": "Mars"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the chemical symbol for water?",
+            "answer": "H2O"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What gas do plants absorb from the atmosphere?",
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+            "answer": "Carbon Dioxide"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the hottest planet in the solar system?",
+            "options": ["Venus", "Mercury", "Mars", "Earth"],
+            "answer": "Venus"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the primary gas found in the sun?",
+            "answer": "Hydrogen"
+          },
+          {
+            "questionType": "number",
+            "question": "How many bones are in the human body?",
+            "answer": 206
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which part of the plant conducts photosynthesis?",
+            "options": ["Roots", "Stem", "Leaves", "Flowers"],
+            "answer": "Leaves"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the boiling point of water at sea level?",
+            "options": ["100°C", "50°C", "120°C", "200°C"],
+            "answer": "100°C"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Mathematics",
+        "questions": [
+          {
+            "questionType": "text",
+            "question": "What is the value of pi (to 2 decimal places)?",
+            "answer": "3.14"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is 12 x 8?",
+            "options": ["96", "88", "108", "100"],
+            "answer": "96"
+          },
+          {
+            "questionType": "number",
+            "question": "How many sides does a hexagon have?",
+            "answer": 6
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is 15 divided by 3?",
+            "options": ["3", "5", "6", "7"],
+            "answer": "5"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the square root of 64?",
+            "answer": "8"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the sum of angles in a triangle?",
+            "options": ["180°", "360°", "90°", "270°"],
+            "answer": "180°"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the next prime number after 7?",
+            "options": ["9", "11", "13", "15"],
+            "answer": "11"
+          },
+          {
+            "questionType": "number",
+            "question": "How many digits are there in a million?",
+            "answer": 7
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Indian History",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "Who was the first President of India?",
+            "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Mahatma Gandhi", "Sardar Patel"],
+            "answer": "Dr. Rajendra Prasad"
+          },
+          {
+            "questionType": "text",
+            "question": "What year did India gain independence?",
+            "answer": "1947"
+          },
+          {
+            "questionType": "mcq",
+            "question": "Who was known as the 'Iron Man of India'?",
+            "options": ["Bhagat Singh", "Subhas Chandra Bose", "Sardar Patel", "Chandragupta Maurya"],
+            "answer": "Sardar Patel"
+          },
+          {
+            "questionType": "mcq",
+            "question": "Who wrote the national anthem of India?",
+            "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Mahatma Gandhi", "Subhas Chandra Bose"],
+            "answer": "Rabindranath Tagore"
+          },
+          {
+            "questionType": "text",
+            "question": "Who was the first Prime Minister of India?",
+            "answer": "Jawaharlal Nehru"
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which Mughal emperor built the Taj Mahal?",
+            "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Babur"],
+            "answer": "Shah Jahan"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What year was the Indian Constitution adopted?",
+            "options": ["1947", "1948", "1949", "1950"],
+            "answer": "1950"
+          },
+          {
+            "questionType": "number",
+            "question": "How many years did the British rule India?",
+            "answer": 200
+          }
+        ]
+      }
+    ]
+  }
+  
